@@ -13,6 +13,7 @@ function App() {
         <a
           className="App-link"
           href="https://reactjs.org"
+          href="https://redux.js.org/
           target="_blank"
           rel="noopener noreferrer"
         >
